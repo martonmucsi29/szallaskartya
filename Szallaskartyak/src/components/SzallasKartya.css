@@ -1,0 +1,22 @@
+.kartya{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(219, 219, 207);
+    width: minmax(260px, 1fr);
+    padding: 10px;
+}
+
+.lastMinute{
+    position: relative;
+    top: 0px;
+    left: 6px;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    width: fit-content;
+    padding: 2px;
+}
+
+.kartya{
+    padding-top: 40px;
+}
